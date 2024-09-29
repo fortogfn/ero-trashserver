@@ -1,4 +1,4 @@
-Ero gameserver s12 isn't a rewrite of Eon gameserver that doesn't fixe the bugs and doesn't add stuff and doesn't make it 1:1.
+Ero gameserver s12 isn't a rewrite of Eon gameserver that doesn't fix the bugs and doesn't add stuff and doesn't make it 1:1.
 
 ## Features
 
